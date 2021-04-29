@@ -1,0 +1,88 @@
+body{
+  
+}
+
+.TopNavbar{
+  padding:1%;
+  height: 15vh;
+ background-color: rgba(150, 163, 168, 0.288);
+}
+
+.todo-logo{
+ border-radius: 50%;
+  width: 150px; 
+  height: 80px; 
+}
+.User-Profile{
+  margin-right: 5%;
+  float: right;
+  width: 30%;
+}
+.DropDown{
+  margin-left: 5%;
+}
+.Task-holder{
+ 
+  margin-top:1%;
+  height:5vh;
+  padding:0 20% 0 20%;
+}
+.Inner-Task-Holder{
+  display: none;
+  height:5vh;
+  background-color: rgba(150, 163, 168, 0.288);
+}
+.task{
+  height:5vh;
+  text-align: center;
+  width:95%;
+  background-color: rgba(150, 163, 168, 0.288);
+}
+.Delete-Button{
+  margin-right:1%;
+  color: rgb(113, 113, 194);
+  margin-top:-3.5%;
+  float: right;
+}
+.Botton-input-container{
+  padding:5% ;
+  text-align: center;
+  /* background-color: rgba(150, 163, 168, 0.288) ; */
+}
+.Task-input{
+  text-align: center;
+  border-radius:100px;
+  border-style: none;
+ outline: none;
+ height: 5vh;
+  width: 50%;
+}
+.Add-btn{
+  margin-top:2%;
+  border-radius:100px;
+  border-style: none;
+ outline: none;
+ color: #fff;
+ width: 25%;
+ height: 5vh;
+ background-color: rgba(18, 120, 236, 0.63);
+}
+.input-btn-container{
+  margin-top:-3%;
+  padding: 20px;
+  width: 100%;
+  margin-left: 50%;
+  text-align: center;
+}
+.Bottom-nav-bgcolor{
+  height: 30vh;
+  background-color: rgba(99, 140, 156, 0.288);
+}
+.submit-btn{
+  display: block;
+}
+.Add-form{
+  padding-top: 1px;
+  
+  margin:20% 0% 0% 0%; 
+}
